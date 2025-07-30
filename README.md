@@ -5,8 +5,8 @@ The dataset are stored in **Google Drive**: [https://drive.google.com/drive/fold
 
 ## Running Tests
 
-### 1. Robustness Testing & Standard Testing
-To perform robustness testing or standard evaluation, run:
+### 1. Standard Testing
+To perform standard evaluation, run:
 ```bash
 python test_noload.py
 ```
